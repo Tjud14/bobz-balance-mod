@@ -1,0 +1,6 @@
+{Mod
+	{Name "BobZ Balance mod GitHub"}
+	{Desc "GitHub ver"}
+	{MinGameVersion "3.250"}
+	{MaxGameVersion "3.265"}
+}
